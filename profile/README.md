@@ -108,7 +108,7 @@ A comprehensive environmental monitoring system for smart homes and indoor space
 <table align="center">
 <tr>
 <td align="center" width="200px">
-  <img src="https://avatars.githubusercontent.com/u/206399212?v=4" width="100" style="border-radius: 50%;"><br>
+  <img src="https://avatars.githubusercontent.com/u/206399212?v=4" width="100" height="100" style="border-radius: 50%; object-fit: cover;"><br>
   <strong>Mahfuj</strong><br>
   <em>Tester</em><br>
   <a href="https://github.com/ahlam26824">
@@ -116,7 +116,7 @@ A comprehensive environmental monitoring system for smart homes and indoor space
   </a>
 </td>
 <td align="center" width="200px">
-  <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/480543193_971105981664405_8425025054350881290_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEzVZzIH66K_G7john1ezn-WTXkG5FJyLxZNeQbkUnIvEuT4C2mY06i7ruCgCFdnOOD1EWadNrhxEoYAVwvtzGc&_nc_ohc=-UM4XWA44yMQ7kNvwFGSMlo&_nc_oc=AdlmX5fz1yE8k0A0OdZrfxHcOGIOD0R5qUD4vTfINYxR0uhcxmOEaehXMgM6_bkHXq8&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=BHPyueBoydL7B46Uwb0xKg&oh=00_AfMGTwAg-jlTwur5ctedjUBVAEcng44A6hrT6oFMC33ViQ&oe=68503021" width="100" style="border-radius: 50%;"><br>
+  <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/480543193_971105981664405_8425025054350881290_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeEzVZzIH66K_G7john1ezn-WTXkG5FJyLxZNeQbkUnIvEuT4C2mY06i7ruCgCFdnOOD1EWadNrhxEoYAVwvtzGc&_nc_ohc=-UM4XWA44yMQ7kNvwFGSMlo&_nc_oc=AdlmX5fz1yE8k0A0OdZrfxHcOGIOD0R5qUD4vTfINYxR0uhcxmOEaehXMgM6_bkHXq8&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=BHPyueBoydL7B46Uwb0xKg&oh=00_AfMGTwAg-jlTwur5ctedjUBVAEcng44A6hrT6oFMC33ViQ&oe=68503021" width="100" height="100" style="border-radius: 50%; object-fit: cover;"><br>
   <strong>Tahsin</strong><br>
   <em>Developer</em><br>
   <a href="https://www.facebook.com/exorsctum">
@@ -124,7 +124,7 @@ A comprehensive environmental monitoring system for smart homes and indoor space
   </a>
 </td>
 <td align="center" width="200px">
-  <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/487314986_122163883640296206_8556114210348581489_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeH7U8leG-WUHY1MXSPVNLat6CzzfhPy-1zoLPN-E_L7XJxwejAv3K_eb8f9M9V37pOkOQ_p-RbfIBsitNd4XsrM&_nc_ohc=LdTeHWapE7AQ7kNvwFw-24y&_nc_oc=Admaf8buiV-TtLDFqwahUgQ52RLf10m1oG4RHGfG_DOukVnJecZYJkriXMwrDBbrvhE&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=XMpZy0_TNdDgJAfG_TW1oA&oh=00_AfNXXEM3ec-1zrLD0Jc0d3SZPBRu5XDaZdRX9cb21wzWUA&oe=685044BE" width="100" style="border-radius: 50%;"><br>
+  <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-1/487314986_122163883640296206_8556114210348581489_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeH7U8leG-WUHY1MXSPVNLat6CzzfhPy-1zoLPN-E_L7XJxwejAv3K_eb8f9M9V37pOkOQ_p-RbfIBsitNd4XsrM&_nc_ohc=LdTeHWapE7AQ7kNvwFw-24y&_nc_oc=Admaf8buiV-TtLDFqwahUgQ52RLf10m1oG4RHGfG_DOukVnJecZYJkriXMwrDBbrvhE&_nc_zt=24&_nc_ht=scontent.fdac24-5.fna&_nc_gid=XMpZy0_TNdDgJAfG_TW1oA&oh=00_AfNXXEM3ec-1zrLD0Jc0d3SZPBRu5XDaZdRX9cb21wzWUA&oe=685044BE" width="100" height="100" style="border-radius: 50%; object-fit: cover;"><br>
   <strong>Zeem</strong><br>
   <em>Team Lead</em><br>
   <a href="https://www.facebook.com/asmaul.husna.zeem.2024">
